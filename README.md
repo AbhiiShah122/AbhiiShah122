@@ -30,13 +30,5 @@ Other: OAuth2 / Webhooks / CI/CD pipelines / System design
 
 ---
 
-### 🗺️ Roadmap / Learning Log
-| Month | Focus | Outcome Target |
-|-------|-------|----------------|
-| Sep | Rust fundamentals | Build CLI tool |
-| Oct | Advanced caching | Reduce p95 latency 30% |
-| Nov | Observability | End-to-end tracing POC |
-(Customize to real goals)
-
 
 <p align="center"><b>Let’s build something remarkable.</b></p>
